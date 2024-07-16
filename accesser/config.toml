@@ -87,6 +87,13 @@ nameserver = [
 # A TLS connection to the domain corresponding to the key will use the domain name corresponding to its value as the server_name field, and this domain name is also used when verifying the certificate. The key supports Unix shell-style wildcards.
 
 "i0.hdslb.com" = "xn--6iq3kq43dsq8aeuj.alicdn.com"
+"upos-sz-mirror08c.bilivideo.com" = "appgallery.huawei.com"
+"upos-sz-mirror08h.bilivideo.com" = "appgallery.huawei.com"
+"upos-sz-mirrorcos.bilivideo.com" = "xn--()-o13aus685jthap52adx4b1ccrsrl91bxbdwr5apudf51i.cdn.myqcloud.com"
+"upos-sz-mirrorcosb.bilivideo.com" = "luna_say_maybe.a.yximgs.com"
+"upos-sz-mirrorbos.bilivideo.com" = "xn--n8jz80g4b554aznsbs2alsg.a.bdydns.com"
+"upos-sz-mirrorhw.bilivideo.com" = "xn--cckea33a.ctcdn.cn"
+"upos-sz-mirrorhwb.bilivideo.com" = "yellow_big_bang!.ctcdn.cn"
 "www.quora.com" = "fs.quoracdn.net"
 "sketch.pixiv.net" = "pixivsketch.net"
 "nyaa.si" = "ddos-guard.net"
@@ -121,6 +128,13 @@ nameserver = [
 # It has as a higher priority than [alter_hostname] and the global check_hostname, but will not be sent as server_name in Client Hello.
 
 "i0.hdslb.com" = ["alicdn.com"]
+"upos-sz-mirror08c.bilivideo.com" = ["appgallery.huawei.com"]
+"upos-sz-mirror08h.bilivideo.com" = ["appgallery.huawei.com"]
+"upos-sz-mirrorcos.bilivideo.com" = ["cdn.myqcloud.com"]
+"upos-sz-mirrorcosb.bilivideo.com" = ["a.yximgs.com", "a.etoote.com", "a.yximgs.com"]
+"upos-sz-mirrorbos.bilivideo.com" = ["a.bdydns.com"]
+"upos-sz-mirrorhw.bilivideo.com" = ["ctcdn.cn"]
+"upos-sz-mirrorhwb.bilivideo.com" = ["ctcdn.cn"]
 "singlelogin.se" = ["1lib.fr", "singlelogin.se", "singlelogin.re"]
 "*.singlelogin.se" = ["1lib.fr", "singlelogin.se", "singlelogin.re"]
 "singlelogin.re" = ["1lib.fr", "singlelogin.se", "singlelogin.re"]
@@ -156,6 +170,13 @@ nameserver = [
 # "dns.adguard-dns.com" = "94.140.14.14"
 
 "i0.hdslb.com" = "121.194.10.88"
+"upos-sz-mirror08c.bilivideo.com" = "121.194.10.211"
+"upos-sz-mirror08h.bilivideo.com" = "121.194.10.211"
+"upos-sz-mirrorcos.bilivideo.com" = "61.240.216.135"
+"upos-sz-mirrorcosb.bilivideo.com" = "116.162.124.9"
+"upos-sz-mirrorbos.bilivideo.com" = "182.140.225.41"
+"upos-sz-mirrorhw.bilivideo.com" = "118.123.20.59"
+"upos-sz-mirrorhwb.bilivideo.com" = "220.163.254.25"
 "sketch.pixiv.net" = "210.140.174.37"
 "img-sketch.pixiv.net" = "210.140.131.145"
 "source.pixiv.net" = "210.140.131.153"
