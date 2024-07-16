@@ -120,6 +120,7 @@ nameserver = [
 # Set the certificate validation policy for domains individually. The values can be a array contain strings which represent the domain name used to verify the certificate (pass if there is a match), or false which means disabling the verification.
 # It has as a higher priority than [alter_hostname] and the global check_hostname, but will not be sent as server_name in Client Hello.
 
+"i0.hdslb.com" = ["alicdn.com"]
 "singlelogin.se" = ["1lib.fr", "singlelogin.se", "singlelogin.re"]
 "*.singlelogin.se" = ["1lib.fr", "singlelogin.se", "singlelogin.re"]
 "singlelogin.re" = ["1lib.fr", "singlelogin.se", "singlelogin.re"]
