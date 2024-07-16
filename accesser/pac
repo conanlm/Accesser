@@ -62,7 +62,8 @@ var domains = {
   "scratch.mit.edu": 1,
   "bandcamp.com": 1,
   "mastodon.social": 1,
-  "hub.docker.com": 1
+  "hub.docker.com": 1,
+  "bilibili.com": 1
 };
 
 var shexps = {
