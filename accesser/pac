@@ -64,7 +64,8 @@ var domains = {
   "mastodon.social": 1,
   "hub.docker.com": 1,
   "bilibili.com": 1,
-  "hdslb.com": 1
+  "hdslb.com": 1,
+  "bilivideo.com": 1,
 };
 
 var shexps = {
@@ -79,7 +80,9 @@ var shexps = {
   "*://*.pixivsketch.net/*": 1,
   "*://*.githubassets.com/*": 1,
   "*://*.githubusercontent.com/*": 1,
-  "*://*.redditstatic.com/*": 1
+  "*://*.redditstatic.com/*": 1,
+  "*://*.hdslb.com/*": 1,
+  "*://*.bilivideo.com/*": 1
 };
 
 var proxy = "PROXY {{host}}:{{port}};";
