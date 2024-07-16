@@ -81,8 +81,7 @@ var shexps = {
   "*://*.githubassets.com/*": 1,
   "*://*.githubusercontent.com/*": 1,
   "*://*.redditstatic.com/*": 1,
-  "*://*.hdslb.com/*": 1,
-  "*://*.bilivideo.com/*": 1
+  "*://*.hdslb.com/*": 1
 };
 
 var proxy = "PROXY {{host}}:{{port}};";
