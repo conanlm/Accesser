@@ -3,7 +3,7 @@
 
 # 是否校验证书域名？false 不进行校验，true 进行宽松的校验（如a.example.com能匹配b.example.com），"strict" 进行标准的校验。
 # Whether to verify the certificate domains? Set to false for no verification, set to true for loose verification (e.g. a.example.com matches b.example.com), set to "strict" for standard verification.
-check_hostname = true
+check_hostname = false
 
 # 是否自动设置系统的代理（目前只对Windows有效）。这可使用命令行参数 --notsetproxy 来覆盖。
 # Whether to set the system proxy automatically (currently only valid for Windows). This can be overridden with the command line argument --notsetproxy.
