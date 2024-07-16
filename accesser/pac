@@ -64,7 +64,13 @@ var domains = {
   "mastodon.social": 1,
   "hub.docker.com": 1,
   "bilibili.com": 1,
-  "hdslb.com": 1,
+  "s1.hdslb.com": 1,
+  "s2.hdslb.com": 1,
+  "s3.hdslb.com": 1,
+  "i0.hdslb.com": 1,
+  "i1.hdslb.com": 1,
+  "i2.hdslb.com": 1,
+  "i3.hdslb.com": 1,
   "bilivideo.com": 1
 };
 
