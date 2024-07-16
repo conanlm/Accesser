@@ -65,7 +65,6 @@ var domains = {
   "hub.docker.com": 1,
   "bilibili.com": 1,
   "hdslb.com": 1,
-  "i1.hdslb.com": 1,
   "bilivideo.com": 1,
 };
 
