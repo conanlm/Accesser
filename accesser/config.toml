@@ -170,8 +170,8 @@ nameserver = [
 # "dns.adguard-dns.com" = "94.140.14.14"
 
 # "i0.hdslb.com" = "121.194.10.88"
-# "upos-sz-mirror08c.bilivideo.com" = "121.194.10.211"
-# "upos-sz-mirror08h.bilivideo.com" = "121.194.10.211"
+"upos-sz-mirror08c.bilivideo.com" = "117.161.125.36"
+"upos-sz-mirror08h.bilivideo.com" = "111.63.106.4"
 # "upos-sz-mirrorcos.bilivideo.com" = "61.240.216.135"
 # "upos-sz-mirrorcosb.bilivideo.com" = "116.162.124.9"
 # "upos-sz-mirrorbos.bilivideo.com" = "182.140.225.41"
