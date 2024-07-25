@@ -71,6 +71,7 @@ var domains = {
   "i1.hdslb.com": 1,
   "i2.hdslb.com": 1,
   "i3.hdslb.com": 1,
+  "boss.hdslb.com": 1,
   "bilivideo.com": 1
 };
 
