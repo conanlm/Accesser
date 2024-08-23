@@ -65,6 +65,7 @@ var domains = {
   "hub.docker.com": 1,
   "gitee.com": 1,
   "bilibili.com": 1,
+  "data.bilibili.com": 1,
   "s1.hdslb.com": 1,
   "s2.hdslb.com": 1,
   "s3.hdslb.com": 1,
