@@ -64,7 +64,23 @@ var domains = {
   "onedrive.live.com": 1,
   "deviantart.com": 1,
   "wixmp.com": 1,
-  "deviantart.net": 1
+  "deviantart.net": 1,
+  "gitee.com": 1,
+  "bilibili.com": 1,
+  "data.bilibili.com": 1,
+  "s1.hdslb.com": 1,
+  "s2.hdslb.com": 1,
+  "s3.hdslb.com": 1,
+  "i0.hdslb.com": 1,
+  "i1.hdslb.com": 1,
+  "i2.hdslb.com": 1,
+  "i3.hdslb.com": 1,
+  "boss.hdslb.com": 1,
+  "aisubtitle.hdslb.com": 1,
+  "hdslb.com": 1,
+  "bilivideo.com": 1,
+  "mcdn.bilivideo.cn": 1,
+  "bfts.5read.com":1
 };
 
 var shexps = {
