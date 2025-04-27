@@ -80,6 +80,7 @@ var domains = {
   "hdslb.com": 1,
   "bilivideo.com": 1,
   "mcdn.bilivideo.cn": 1,
+  "stage1st.com": 1,
   "bfts.5read.com":1
 };
 
